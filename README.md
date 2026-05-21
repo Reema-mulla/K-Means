@@ -1,4 +1,6 @@
 # K-Means
-Lab 11 : I used K-Means clustering to segment [credit card customers](https://www.kaggle.com/datasets/arjunbhasin2013/ccdata/data) based on their usage behavior. 
-Name : Reema AlMulla
-ID : 2240006768
+Course: ARTI308 - Machine Learning
+Algorithm: K-Means Clustering
+
+Overview
+This project uses K-Means clustering to segment credit card customers based on their usage behavior. The goal is to group similar customers together to help companies design better marketing strategies.
